@@ -22,5 +22,5 @@ This project analyzes Bitcoin prices across different exchanges using data fetch
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bitcoin-price-analysis.git](https://github.com/tushar-lawande/Bitcoin-Cryptocurrency-Price-Visualizer-Final.git
+   git clone https://github.com/tushar-lawande/Bitcoin-Cryptocurrency-Price-Visualizer-Final.git
    cd bitcoin-price-analysis
